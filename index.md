@@ -1,1 +1,1 @@
-# これはヘッダーです。
+# This is header
